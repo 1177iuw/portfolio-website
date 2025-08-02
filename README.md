@@ -25,6 +25,7 @@ This is my personal portfolio website showcasing my skills, projects, and contac
 
  🛠️ Technologies Used
 - HTML5 & CSS3 (Vanilla)
+- Visual Studio Code (Development)
 - Font Awesome Icons
 - Git & GitHub Pages for Deployment
 - Formspree.io (Contact Form Handling)
@@ -36,6 +37,15 @@ This is my personal portfolio website showcasing my skills, projects, and contac
     ```
 2. Open the `index.html` in your browser.
 3. Edit content (skills, projects, etc.) in `index.html` or style in `style.css`.
+
+🛠️ Folder Breakdown
+| Folder/File    | Purpose                                 |
+| -------------- | --------------------------------------- |
+| index.html     | Main webpage content                    |
+| style.css      | Custom styles & responsive design rules |
+| assets/images/ | Portfolio images                        |
+| assets/cv/     | Portfolio document scans                |
+
 
  📬 Contact Information
 - WhatsApp: +254 719 580 925
@@ -55,3 +65,4 @@ This project is free for personal and academic use.
  🙏 Acknowledgements
 - [Font Awesome](https://fontawesome.com/)
 - [Formspree](https://formspree.io/)
+

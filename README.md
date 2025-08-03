@@ -7,13 +7,13 @@ This is my personal portfolio website showcasing my skills, projects, and contac
 
 📂 Project Structure
 /portfolio-website/
-├── index.html # Main HTML file
-├── style.css # Styling and responsive design
-└── /assets/ # Contains images and CV
+├── index.html      Main HTML file
+├── style.css       Styling and responsive design
+└── /assets/         Contains images and CV
 ├── /images/
-│ └── profile.jpg # My Profile Photo
+│ └── profile.jpg    My Profile Photo
 └── /cv/
-└── walter_cv.pdf # My Curriculum Vitae
+└── walter_cv.pdf     My Curriculum Vitae
 
  🚀 Features
 - Clean & Responsive Layout (Mobile-friendly)
